@@ -1,8 +1,11 @@
 # remote-Drupal-Developer-tech-jobs-egypt 
-Jedra is hiring the following positions: Job Details: Job Type: Full-Time – Remote Nationality: Egyptian Company link: https://www.linkedin.com/company/jedra/posts/?feedView=all
-Drupal Developer:
+Jedra is hiring  #Drupal-Developer:
 experience working with Drupal-based websites and applications.
-Key Responsibilities:
+⚡Job Type: Full-Time – Remote 
+⚡Nationality: Egyptian 🇪🇬
+⚡Company link: https://www.linkedin.com/company/jedra/posts/?feedView=all
+
+✨Key Responsibilities:
 *Development: Build and maintain Drupal websites using Drupal 8/9/10.
 *Custom Modules: Develop and enhance custom Drupal modules based on project requirements.
 *Theming: Customize templates and themes using Twig, HTML, CSS, and JavaScript.
@@ -11,7 +14,7 @@ Key Responsibilities:
 *Performance: Implement caching, optimize queries, and improve overall site performance.
 *Maintenance: Apply security patches, core updates, and troubleshoot issues.
 *Collaboration: Work with designers, testers, and team members to deliver quality solutions.
-Technical Skills & Experience:
+✨Technical Skills & Experience:
 *Minimum 1 year of experience working with Drupal 8/9/10.
 *Proficiency in PHP and strong understanding of OOP principles.
 *Experience with Twig templating, HTML, CSS, and JavaScript.
@@ -19,5 +22,5 @@ Technical Skills & Experience:
 *Familiarity with MySQL or PostgreSQL databases.
 *Experience with Composer and package management.
 *Knowledge of Git, CI/CD pipelines, and Agile/Scrum environments.
-To apply , Please fill in this form:
+✨✨To apply , Please fill in this form:
 https://forms.gle/5x1Fe3RRVapXRbj76
